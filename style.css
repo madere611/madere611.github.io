@@ -67,9 +67,10 @@ main {
 
 /* interests section styles */
 #interests {
-    border: 4px grey;
+    border: 4px gray;
     padding: 8px;
     margin-top: 20px;
+    border-style: solid;
 }
 
 h2, h3 {
